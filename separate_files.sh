@@ -23,5 +23,5 @@ for index in "${!file_names[@]}"; do
     done < mapping_file.txt
 
     # Remove the decompressed file
-    rm "${file_name%.gz}"
+    #rm "${file_name%.gz}"
 done
