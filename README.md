@@ -1,4 +1,4 @@
-# Wrangling_raw_mitochondrial_genomic_data
+# Wrangling Raw Mitochondrial Genomic Gata
 
 𝐍𝐞𝐱𝐭𝐒𝐞𝐪 𝟐𝟎𝟎𝟎 is a cutting-edge sequencing platform from Illumina that provides high-throughput sequencing with exceptional accuracy and speed. The platform often employs a shotgun sequencing approach, which randomly breaks the DNA into small fragments that are then sequenced. This approach is particularly effective for comprehensive genome analysis and metagenomic studies.
 
